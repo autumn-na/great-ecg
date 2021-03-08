@@ -30,7 +30,8 @@ The output data may not be exactly the same as the input data.
 
 ### ECG Signal
 ![image](https://user-images.githubusercontent.com/54922741/110275848-36621c00-8015-11eb-94be-bb43ebb0a2ee.png)   
-Health care community analyzes the period of ECG Signals for disease detection.   
+Health care community analyzes the period of ECG Signals for disease detection,   
+which is measured heart rate of the patient.
 
 ### Mathematica lECG Signal Analysis Methods
 ![image](https://user-images.githubusercontent.com/54922741/110276045-b12b3700-8015-11eb-9488-a6cfcf9673d5.png)   
